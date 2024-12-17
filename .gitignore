@@ -1,0 +1,12 @@
+env/
+.env
+test1.pdf
+test2.pdf
+test1.py
+test1.txt
+test2.txt
+__pychache__
+data
+images
+njdoc
+sample_prompts
